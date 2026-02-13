@@ -1,0 +1,18 @@
+# Eclipse
+.metadata/
+.settings/
+.project
+.classpath
+
+# Compiled files
+bin/
+*.class
+
+# Logs
+*.log
+.lock
+.lock_info
+
+# OS files
+.DS_Store
+Thumbs.db

@@ -1,0 +1,14 @@
+1::LR201::Nepal ::UK::2026-02-20::10::50000.0::true::
+2::RON09::Nepal::India::2026-02-10::7::20000.0::true::
+3::RONI90::Nepal ::Ireland::2026-02-07::5::30000.0::true::
+4::UN023::Nepal::Japan::2026-02-06::4::40000.0::false::
+5::YONA09::Nepal::Korea::2026-02-14::6::60000.0::true::
+6::UNO67::Nepal::Swtizerland::2026-02-10::30::50000.0::true::
+7::R1NOP ::Nepal ::India::2026-02-15::80::20000.0::false::
+8::UNI09::Nepal::Uk::2026-02-16::2::80000.0::false::
+9::BOY23::Nepal ::Japan::2026-02-22::70::40000.0::true::
+10::YNOT78::Nepal ::USA::2026-02-10::40::70000.0::false::
+11::ZOR56::USA::Nepal::2026-02-15::40::70000.0::false::
+12::NOR89::Africa::Nepal::2026-02-15::50::55000.0::false::
+13::UNO90::Nepal::Bhutan::2026-02-21::7::80000.0::true::
+14::HON90::Nepal::Swtizerland::2026-02-20::-1::8000.0::true::
