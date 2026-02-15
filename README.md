@@ -1,4 +1,4 @@
-# Flight Management System for Airline Operations (Java) ✈️
+# Flight Management System (Java) ✈️
 The Flight Management System for Airline Operations (Java) is a Java-based application built using core Object-Oriented Programming concepts.
 It helps airline staff manage customers, flights, and bookings with operations like adding, updating, deleting, and canceling bookings with proper validation.
 
