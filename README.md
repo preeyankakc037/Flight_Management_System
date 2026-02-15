@@ -1,16 +1,24 @@
 # Flight Management System (Java) ✈️
 
-**Project Defination**
+## 📌 Project Definition
 
-The Flight Management System for Airline Operations (Java) is a Java-based application built using core Object-Oriented Programming concepts.
-It helps airline staff manage customers, flights, and bookings with operations like adding, updating, deleting, and canceling bookings with proper validation.
+The **Flight Management System** is a Java-based application developed using core Object-Oriented Programming (OOP) principles. It enables airline staff to manage customers, flights, and bookings with full CRUD operations, including booking cancellations with proper validation rules.
 
-The system also includes a feature where ticket prices and cancellation fees increase as the departure date gets closer using date simulation. It is designed for internal airline management, not for public online booking, and supports both CLI and a GUI built with Java Swing.
+The system implements dynamic fare and cancellation fee simulation, where charges increase as the departure date approaches. It is designed for internal airline management purposes rather than public online ticket booking and supports both a Command Line Interface (CLI) and a minimal Graphical User Interface (GUI) built using Java Swing.
 
-**Project Description**
+---
 
-This project was developed as a third semester final project for the Object-Oriented Programming module, with the primary goal of applying and understanding core OOP concepts in a real-world scenario. The system simulates a basic airline flight management system that supports essential operations such as managing flights, customers, and bookings through both CLI and a minimal GUI built using Java Swing.
+## 📖 Project Description
 
-The project was developed using Java in Eclipse IDE and focuses heavily on proper object modeling, validation, and business logic implementation. For example, flights scheduled in the past cannot be added, and passengers cannot be booked once a flight reaches full capacity. The system includes unit testing using JUnit to ensure reliability of core functionalities.
+This project was developed as a third semester final project for the **Object-Oriented Programming** module. The primary objective was to apply and demonstrate major OOP concepts in a practical, real-world scenario through the development of a flight management system.
 
-While authentication features such as login and signup were not included due to university requirements, the system is structured in a way that allows future expansion. Overall, the project demonstrates practical implementation of OOP principles, validation handling, and dual-interface design within a structured academic context.
+The application was built using **Java in Eclipse IDE** and emphasizes structured object modeling, validation logic, and business rule implementation. Key validation features include:
+- Preventing flights from being scheduled in the past  
+- Restricting bookings when flight capacity is full  
+- Managing cancellations with dynamic fee calculation  
+
+The system supports operations through both CLI and GUI interfaces, with some advanced functionalities available in the GUI. Unit testing is implemented using **JUnit** to ensure reliability and correctness of core functionalities.
+
+Authentication features such as login and signup were not included as per university requirements; however, the system architecture allows future enhancements and scalability.
+
+Overall, this project demonstrates practical implementation of OOP principles, validation mechanisms, interface design, and structured application development within an academic context.
